@@ -1,12 +1,12 @@
 import Bar from "../../components/navbar"
-import Laws_navbar from '/home/au6u57o/Escritorio/Pro/Js/project/src/components/laws_Navbar.jsx'
+import Laws_electrostatics_navbar from "../../components/laws_electrostatics_Navbar"
 
 
 export default function Laws_electrostatics() {
     return (
         <>
         <Bar/>
-       <Laws_navbar/>
+       <Laws_electrostatics_navbar/>
        </>
     )
 }

@@ -4,7 +4,7 @@ import { Link } from "react-router-dom"
 
 import { Outlet } from "react-router"
 
-export default function Laws_navbar() {
+export default function Laws_electrostatics_navbar() {
   return (
     <>
         <Container className="p-2 m-2">
